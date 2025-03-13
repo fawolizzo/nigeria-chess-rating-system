@@ -1,0 +1,12 @@
+{
+  "name": "nigeria-chess-rating-system",
+  "version": "1.0.0",
+  "description": "A comprehensive web application for managing chess tournaments and player ratings in Nigeria",
+  "main": "index.js",
+  "scripts": {
+    "start": "node backend/src/server.js",
+    "dev": "nodemon backend/src/server.js"
+  },
+  "author": "",
+  "license": "MIT"
+}
